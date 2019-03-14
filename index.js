@@ -1,1 +1,1 @@
-var recipes = ob{};
+var recipes = obj{};
